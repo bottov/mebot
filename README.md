@@ -1,8 +1,10 @@
-**MEBOT**
+# Mebot
 
-__Modifies your Telegram message - changes the font to italics and encloses it in emoticons__
+_Modifies your Telegram message - changes the font to italics and encloses it in emoticons_
 
-Create .env file with API_ID, API_HASH values
+## Setting
+Create `.env` file with API_ID, API_HASH values
 
-Send message /on for on bot
-Send message /off for off bot
+## Switch mode on/off
+Send a message `/on` to any chat
+Send a message `/off` to any chat
